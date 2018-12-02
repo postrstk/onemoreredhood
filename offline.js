@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543764415,
+	"version": 1543766502,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -55,6 +55,8 @@
 		"media/skulit.ogg",
 		"media/votetoohota.ogg",
 		"media/vottigde.ogg",
+		"media/new_intro.ogg",
+		"media/new_rules.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
