@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543761392,
+	"version": 1543764415,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,6 +47,14 @@
 		"media/kindreds humming song.ogg",
 		"media/back.ogg",
 		"media/steps.ogg",
+		"media/menu.ogg",
+		"media/hmmyachuyu.ogg",
+		"media/ohotaluchshayaigra.ogg",
+		"media/ohotanachalas.ogg",
+		"media/pogonyazakonchena.ogg",
+		"media/skulit.ogg",
+		"media/votetoohota.ogg",
+		"media/vottigde.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
