@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543756772,
+	"version": 1543761392,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,8 @@
 		"images/redhood-sheet0.png",
 		"images/sprite-sheet0.png",
 		"images/rhsound-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/darkturn-sheet0.png",
 		"media/01416.ogg",
 		"media/04088.ogg",
 		"media/[all-sounds.ru]zvuk-togo-kak-sobaka-nyuhaet.ogg",
@@ -43,6 +45,8 @@
 		"media/endlvl.ogg",
 		"media/nextlevel.ogg",
 		"media/kindreds humming song.ogg",
+		"media/back.ogg",
+		"media/steps.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
