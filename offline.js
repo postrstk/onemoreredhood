@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543769782,
+	"version": 1543786856,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -58,6 +58,8 @@
 		"media/new_rules.ogg",
 		"media/full_rule.ogg",
 		"media/wasted.ogg",
+		"media/chtoobshego.ogg",
+		"media/gotovikohote.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
