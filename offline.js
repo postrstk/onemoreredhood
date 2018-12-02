@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543755766,
+	"version": 1543756772,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,7 @@
 		"media/zvuk-bega-po-grjazi.ogg",
 		"media/endlvl.ogg",
 		"media/nextlevel.ogg",
+		"media/kindreds humming song.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
