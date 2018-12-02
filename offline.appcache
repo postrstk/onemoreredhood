@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1543766502
+#1543769782
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -30,7 +30,6 @@ media/lose.ogg
 media/win.ogg
 media/shsh.ogg
 media/full_intro.ogg
-media/full_rules.ogg
 media/rules1.ogg
 media/pravila.ogg
 media/intro_1.ogg
@@ -56,6 +55,8 @@ media/votetoohota.ogg
 media/vottigde.ogg
 media/new_intro.ogg
 media/new_rules.ogg
+media/full_rule.ogg
+media/wasted.ogg
 icon-16.png
 icon-32.png
 icon-114.png
